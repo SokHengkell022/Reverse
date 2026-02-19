@@ -718,4 +718,3 @@ main() {
 }
 
 main
- predator.temp1.sh 
